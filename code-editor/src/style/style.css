@@ -129,7 +129,16 @@ table {
 }
 
 /* css */
-header {
-  background-color: rgb(231, 99, 59);
-  text-align: center;
+.main-div {
+  padding: 1rem;
+  background-color: blue;
+}
+.center-div {
+  padding: 1rem;
+  margin: 0 auto;
+  width: 500px;
+  background-color: skyblue;
+}
+h1 {
+  font-size: 2rem;
 }
